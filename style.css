@@ -1,0 +1,22 @@
+body{
+    background-image:url("mountain.jpg") ;
+}
+
+#container{
+    height: 400px;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#boton{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+}
+
+#exit{
+    margin: 25px auto;
+    font-size: 25px;
+}
